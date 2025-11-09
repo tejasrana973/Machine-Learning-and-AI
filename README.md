@@ -1,1 +1,1 @@
-# Machine-Learning-and-AI
+# Machine Learning & AI
